@@ -1,0 +1,16 @@
+{
+  "name": "shadow-mastery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "acurrz",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.6.1"
+  },
+  "dependencies": {},
+  "description": ""
+}
